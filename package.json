@@ -1,0 +1,14 @@
+{
+  "name": "eamar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "block.js",
+  "scripts": {
+    "test": "jest block.test.js"
+  },
+  "author": "Mohammed Mubashir Hasan",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
