@@ -4,7 +4,7 @@
   "description": "",
   "main": "block.js",
   "scripts": {
-    "test": "jest block.test.js"
+    "test": "jest .test.js"
   },
   "author": "Mohammed Mubashir Hasan",
   "license": "ISC",
